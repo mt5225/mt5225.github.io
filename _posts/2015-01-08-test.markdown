@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "test!"
+date:   2015-01-08 15:03:45
+categories: test
+---
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight bash%}
+print "hellow world"
+{% endhighlight %}
+
