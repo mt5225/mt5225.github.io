@@ -14,7 +14,7 @@ disqus: diqus-mt5225
 
 
 highlighter: rouge 
-markdown: redcarpet
+markdown: kramdown 
 redcarpet:
   extensions: ["tables"]
 
