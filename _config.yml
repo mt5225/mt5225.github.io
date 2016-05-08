@@ -1,0 +1,31 @@
+name: Jerry Jiang
+author: Jerry Jiang
+baseurl: 
+description: theme for jekyll
+github: http://www.github.com/mt5225
+twitter: http://www.twitter.com/mt5225
+facebook: https://www.facebook.com/jiang.qing
+linkedin: http://www.linkedin.com
+email: mt5225[at]gmail.com
+location: 42°2'16"N   70°12'47"W
+disqus: diqus-mt5225
+
+##Make sure to edit the above fields, especially for disqus.
+
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
